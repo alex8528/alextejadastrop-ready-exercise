@@ -63,7 +63,9 @@ _It is recommended to use a structured abstract with Background/Methods/Results/
 _Provide enough background on your topic that others can understand the why and how of your analysis_ 
 
 ## Description of data and data source
-_Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
+Two new variables were added to the dataset.
+The numeric variable, hours_sleep, measures the number of hours each person sleeps per night.
+The categorical variable, eye_color, groups individuals by eye color.
 
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
